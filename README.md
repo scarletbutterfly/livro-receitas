@@ -1,5 +1,2 @@
 # Livro de Receitas
-Obs: 
-
-lista etc
-
+Aprendendo a usar o git bash e o git hub
